@@ -1,0 +1,6 @@
+1001|Rahul Sharma|34|9622233441|fever
+1002|Priya Patel|28|9825099999|Skin Allergy (Chronic)
+1003|Amit Shah|45|9898989898|Diabetes
+1004|Neha Desai|52|9712345678|Back Pain
+1005|Rohan Verma|25|9123456789|Headache
+1006|Rahul |30|9655654785|fever

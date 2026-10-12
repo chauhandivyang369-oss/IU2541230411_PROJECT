@@ -1,0 +1,4 @@
+2001|Dr. Kiran Mehta|45|9811100011|General Physician|3000
+2002|Dr. Anita Joshi|39|9811122233|Dermatologist|800
+2003|Dr. Suresh Rao|50|9822233344|Orthopedic|1000
+2004|shyam|25|9855554463|MBBS|2000
